@@ -1,0 +1,7 @@
+organization=antonyan
+projectKey=Antonyan_cognitive-coplexity
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.37226
+dashboardUrl=https://sonarcloud.io/dashboard?id=Antonyan_cognitive-coplexity
+ceTaskId=AYYc4qGxf43SB0ZYhe2t
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYYc4qGxf43SB0ZYhe2t
